@@ -28,12 +28,7 @@ export const Overview = () => {
            >
              open source
            </Link>{' '}
-           chatbot built with Next.js. It uses
-           the{' '}
-           <code className="rounded-md bg-muted px-1 py-0.5">streamText</code>{' '}
-           function in the server and the{' '}
-           <code className="rounded-md bg-muted px-1 py-0.5">useChat</code> hook
-           on the client to create a seamless chat experience.
+           chatbot built with Next.js.
          </p>
          
       </div>
