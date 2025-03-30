@@ -28,7 +28,7 @@ export const Overview = () => {
            >
              open source
            </Link>{' '}
-           chatbot built with Next.js.
+           chatbot built for providing mental health support with Next.js.
          </p>
          
       </div>
